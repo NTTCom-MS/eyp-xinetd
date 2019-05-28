@@ -1,6 +1,6 @@
 {
   "name": "eyp-xinetd",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "eyp",
   "summary": "basic xinetd management",
   "license": "Apache-2.0",
@@ -14,23 +14,23 @@
   "operatingsystem_support": [
     {
       "operatingsystem": "RedHat",
-      "operatingsystemrelease": [ "7" ]
+      "operatingsystemrelease": [ "7", "8" ]
     },
     {
       "operatingsystem": "CentOS",
-      "operatingsystemrelease": [ "7" ]
+      "operatingsystemrelease": [ "7", "8" ]
     },
     {
       "operatingsystem": "Scientific",
-      "operatingsystemrelease": [ "7" ]
+      "operatingsystemrelease": [ "7", "8" ]
     },
     {
       "operatingsystem": "OEL",
-      "operatingsystemrelease": [ "7" ]
+      "operatingsystemrelease": [ "7", "8" ]
     },
     {
       "operatingsystem": "OracleLinux",
-      "operatingsystemrelease": [ "7" ]
+      "operatingsystemrelease": [ "7", "8" ]
     }
   ],
   "requirements": [
